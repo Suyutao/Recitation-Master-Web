@@ -1,0 +1,5 @@
+{
+  "name": "Recitation Master Web (背书王)",
+  "description": "A modern web reimplementation of the classic history recitation Flash software. Features Single and Team modes, customizable question banks covering Chinese and World history, and an AI History Tutor powered by Gemini to explain complex historical contexts.",
+  "requestFramePermissions": []
+}
